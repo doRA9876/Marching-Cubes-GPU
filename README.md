@@ -1,2 +1,2 @@
-# MarchingCubes_on_GPU
+# Marching-Cubes-GPU
 Implementation of Marching Cubes on GPU.
