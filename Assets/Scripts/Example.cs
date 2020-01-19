@@ -9,6 +9,7 @@ namespace MarchingCubesProject
     public Vector3 t1;
     public Vector3 t2;
   }
+
   public class Example : MonoBehaviour
   {
     public enum MARCHING_MODE {  CUBES, TETRAHEDRON };
